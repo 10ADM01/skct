@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0; 
+    box-sizing: border-box;
+}
+.head1{
+    width:100%;
+    height:50px;
+    background-color: #00aded ;
+}
+.head1 li{
+    list-style-type: none;
+    display:inline;
+
+    
+}
+.icons i{
+    font-size: 25px;
+    padding: 10px 0 0 30px;
+    float: right;
+    color:white; 
+}
+.icons{
+    padding-right: 50px;
+}
+
+
+.nav1 a{
+    text-decoration: none;
+    color: white;
+}
+.nav1 li {
+    font-size: 20px;
+    padding: 13px 0 0 30px;
+    float: left;
+    color:white; 
+    font-family: 'Roboto', sans-serif;
+    }
+.head2{
+    width:100%;
+    height:83px;
+    background-color: rgba(213, 217, 223, 0.2) ;
+}
+.head2 a{
+    text-decoration: none;
+    color: black;
+} 
+.head2 li {
+    display:inline;
+    list-style: none;
+}
+.head2 ul li {
+    float: right;
+    padding:  35px 10px ;
+}
+.head2 li{
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
+
+
+
+
+
+
+/* CSS FOR SLIDER IMAGE
